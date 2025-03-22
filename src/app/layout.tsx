@@ -5,7 +5,7 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "Intro Amakhoe",
+  title: "Amakhoe Karuseb",
   description: "Template created by Amakhoe",
 };
 
