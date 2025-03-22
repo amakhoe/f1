@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Amakhoe Karuseb",
-  description: "Template created by Amakhoe",
+  description: "Created by Amakhoe",
 };
 
 export default function RootLayout({
